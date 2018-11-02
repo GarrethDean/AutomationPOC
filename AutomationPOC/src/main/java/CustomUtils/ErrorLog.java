@@ -1,6 +1,6 @@
 package CustomUtils;
 
-import Config.GlobalVariables;
+import Config.Hetzner;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -21,7 +21,7 @@ public class ErrorLog {
         String dateStr = sdf.format(date);
 
         // Build the name of the file
-        String fileName = "Error_Logs/" + GlobalVariables.currentTestName +"_" + dateStr + ".txt";
+        String fileName = "Error_Logs/" + Hetzner.currentTestName +"_" + dateStr + ".txt";
 
         File file = new File(fileName);
 
@@ -32,7 +32,7 @@ public class ErrorLog {
         writer.close();
 
         // Build the name of the screenshot file
-        String screenShotFileName = "Error_Screenshots/" + GlobalVariables.currentTestName +"_" + dateStr + ".png";
+        String screenShotFileName = "Error_Screenshots/" + Hetzner.currentTestName +"_" + dateStr + ".png";
 
         //Take the screenshot and convert to a file
         TakesScreenshot scrShot =((TakesScreenshot)driver);
@@ -51,7 +51,7 @@ public class ErrorLog {
         String dateStr = sdf.format(date);
 
         // Build the name of the file
-        String fileName = "Error_Logs/" + GlobalVariables.currentTestName +"_" + dateStr + ".txt";
+        String fileName = "Error_Logs/" + Hetzner.currentTestName +"_" + dateStr + ".txt";
 
         File file = new File(fileName);
 

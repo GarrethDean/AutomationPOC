@@ -1,6 +1,6 @@
 package Config;
 
-public class GlobalVariables {
+public class Hetzner {
 
     // Browser
     public static String browser = "Chrome";

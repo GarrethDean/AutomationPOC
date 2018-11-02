@@ -1,7 +1,7 @@
 package BaseClass;
 
 import Config.DriverFactory;
-import Config.GlobalVariables;
+import Config.Hetzner;
 import org.openqa.selenium.WebDriver;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
@@ -16,9 +16,9 @@ public class BaseTestWeb {
     @BeforeSuite
     public void suiteSetup() throws IOException{
 
-        String url = GlobalVariables.RootURL;
+        String url = Hetzner.RootURL;
         DriverFactory myDriverFactory = new DriverFactory();
-        driver = myDriverFactory.getWebDriver(GlobalVariables.browser);
+        driver = myDriverFactory.getWebDriver(Hetzner.browser);
         driver.manage().window().maximize();
         driver.get(url);
     }
@@ -26,13 +26,13 @@ public class BaseTestWeb {
     @BeforeMethod
     public void getMethodName(Method method) {
         // Get the name of the test being run
-        GlobalVariables.currentTestName = method.getName();
+        Hetzner.currentTestName = method.getName();
     }
 
     @AfterMethod
     public void teardown(ITestResult result){
         if (result.getStatus() == ITestResult.FAILURE || result.getStatus() == ITestResult.SKIP){
-            driver.get(GlobalVariables.RootURL);
+            driver.get(Hetzner.RootURL);
         }
     }
 

@@ -18,7 +18,7 @@ public class WebKeywords extends BaseTestWeb {
 
 
     public WebKeywords(WebDriver driver) throws IOException {
-        myPage = new WebPageFunctions(driver, "GlobalKinetic_Web.xlsx", "PageObjectMaster.xlsx");
+        myPage = new WebPageFunctions(driver, "Hetzner_Web.xlsx", "PageObjectMaster.xlsx");
     }
 
     public void NavigateMainMenu(String catagoryName) throws IOException, InterruptedException {

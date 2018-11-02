@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Global Kinetic" parallel="false">
+<suite name="Hetzner" parallel="false">
     <listeners>
         <listener class-name="ExtentReportListener.ExtentReportListener"/>
     </listeners>
     <test name="Regression" >
         <classes>
-            <class name="AndroidTests.GlobalKinetic_Android"/>
+            <class name="AndroidTests.Hetzner_Android"/>
         </classes>
     </test>
 </suite>

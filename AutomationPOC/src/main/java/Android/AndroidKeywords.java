@@ -15,8 +15,8 @@ public class AndroidKeywords {
 
 
     public AndroidKeywords(AndroidDriver driver) throws IOException {
-        myPage = new WebPageFunctions(driver, "GlobalKinetic_Android.xlsx", "PageObjectMasterAndroid.xlsx");
-        myPageAndroid = new AndroidPageFunctions(driver, "GlobalKinetic_Android.xlsx", "PageObjectMasterAndroid.xlsx");
+        myPage = new WebPageFunctions(driver, "Hetzner_Android.xlsx", "PageObjectMasterAndroid.xlsx");
+        myPageAndroid = new AndroidPageFunctions(driver, "Hetzner_Android.xlsx", "PageObjectMasterAndroid.xlsx");
 
 
     }

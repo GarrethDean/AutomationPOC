@@ -2,7 +2,7 @@ package BaseClass;
 
 
 import Config.DriverFactory;
-import Config.GlobalVariables;
+import Config.Hetzner;
 import io.appium.java_client.android.AndroidDriver;
 import org.openqa.selenium.WebDriver;
 import org.testng.ITestResult;
@@ -15,7 +15,7 @@ public class BaseTestAndroid {
     public AndroidDriver driver;
     public WebDriver webDriver;
     public DriverFactory myDriverFactory;
-    public String url = GlobalVariables.RootURL;
+    public String url = Hetzner.RootURL;
 
 
     @BeforeSuite
@@ -27,7 +27,7 @@ public class BaseTestAndroid {
     @BeforeMethod
     public void setup(Method method) {
         // Get the name of the test being run
-        GlobalVariables.currentTestName = method.getName();
+        Hetzner.currentTestName = method.getName();
     }
 
     @AfterMethod

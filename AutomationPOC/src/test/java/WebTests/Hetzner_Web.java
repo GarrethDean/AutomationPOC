@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 
-public class GlobalKinetic_Web extends BaseTestWeb {
+public class Hetzner_Web extends BaseTestWeb {
 
 	private WebKeywords myKeyword;
 
@@ -16,7 +16,7 @@ public class GlobalKinetic_Web extends BaseTestWeb {
         myKeyword = new WebKeywords(driver);
     }
 
-    @Test (priority = 1,testName = "Navigating Global Kinetic",alwaysRun = true)
+    @Test (priority = 1,testName = "Navigating through Global Kinetic",alwaysRun = true)
     public void testWebMainCategories() throws Exception {
                                                     //TODO 'Using Todo to make the text stand out'
 

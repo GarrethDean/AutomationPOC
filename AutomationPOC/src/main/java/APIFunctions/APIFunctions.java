@@ -1,22 +1,16 @@
 package APIFunctions;
 
-import Config.GlobalVariables;
+import Config.Hetzner;
 import ExcelFunctions.ExcelFunctions;
 import com.jayway.restassured.http.ContentType;
 import com.jayway.restassured.response.Response;
 import com.jayway.restassured.response.ResponseBody;
-import com.jayway.restassured.parsing.Parser;
-import org.testng.Assert;
-import org.testng.annotations.Test;
+
 import java.io.IOException;
-import java.util.*;
 
 import CustomUtils.ErrorLog;
 
-import com.jayway.restassured.*;
 import static com.jayway.restassured.RestAssured.*;
-import static com.jayway.restassured.http.ContentType.JSON;
-import static org.hamcrest.Matchers.equalTo;
 
 
 public class APIFunctions {
@@ -40,7 +34,7 @@ public class APIFunctions {
         // Get the access token
 
         // Get the url
-        String url = GlobalVariables.RootURL + myExcel.buildExcelList("URL", urlName).get(0);
+        String url = Hetzner.RootURL + myExcel.buildExcelList("URL", urlName).get(0);
 
         Response response = given().
                 auth().preemptive().oauth2(accessToken).
