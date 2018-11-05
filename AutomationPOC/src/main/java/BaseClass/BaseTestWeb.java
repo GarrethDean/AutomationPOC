@@ -6,6 +6,8 @@ import org.openqa.selenium.WebDriver;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
 
+
+
 import java.io.IOException;
 import java.lang.reflect.Method;
 
@@ -40,8 +42,6 @@ public class BaseTestWeb {
     public void endSuite()throws IOException{
         // Close the browser
        //End everything
-        driver.close();
-        driver.quit();
     }
 
     @AfterClass

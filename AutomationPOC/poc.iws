@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df022cfd-2ab4-42b2-b2e4-beeb3dae2433" name="Default Changelist" comment="" />
+    <list default="true" id="df022cfd-2ab4-42b2-b2e4-beeb3dae2433" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Error_Logs/placeholder.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Error_Logs/placeholder.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Error_Screenshots/placeholder.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Error_Screenshots/placeholder.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Error_Screenshots/testUniversalMediaPlayer_09082018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test Plan.jmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/poc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poc.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/poc.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poc.iws" beforeDir="false" afterPath="$PROJECT_DIR$/poc.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/APIFunctions/APIFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/APIFunctions/APIFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Android/AndroidKeywords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Android/AndroidKeywords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaseClass/BaseTestAndroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BaseClass/BaseTestAndroid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaseClass/BaseTestWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BaseClass/BaseTestWeb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Config/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Config/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Config/GlobalVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Config/GlobalVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomUtils/ErrorLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CustomUtils/ErrorLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomUtils/RetryFailedTestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CustomUtils/RetryFailedTestCases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomUtils/RetryListenerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CustomUtils/RetryListenerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExcelFunctions/ExcelFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExcelFunctions/ExcelFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExtentReportListener/ExtentReportListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageFunctions/AndroidPageFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageFunctions/AndroidPageFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageFunctions/WebPageFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageFunctions/WebPageFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Web/WebKeywords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Web/WebKeywords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/email.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/email.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AndroidTests/GlobalKinetic_Android.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WebTests/GlobalKinetic_Web.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/APIFunctions/APIFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/APIFunctions/APIFunctions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BaseClass/BaseTestWeb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BaseClass/BaseTestWeb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ExtentReportListener/ExtentReportListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ExtentReportListener/ExtentReportListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Web/WebKeywords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Web/WebKeywords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AndroidTests/GlobalKinetic_Android.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/WebTests/GlobalKinetic_Web.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_Android.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_Android.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,32 +82,44 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-67461379">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GlobalKinetic_Android.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/AndroidTests/GlobalKinetic_Android.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/WebTests/Hetzner_Web.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebKeywords.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Web/WebKeywords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidKeywords.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Android/AndroidKeywords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="68">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -85,25 +133,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/BaseClass/BaseTestWeb.java" />
-        <option value="$PROJECT_DIR$/testng_Android.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Config/DriverFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/WebTests/GlobalKinetic_Web.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Android/AndroidKeywords.java" />
         <option value="$PROJECT_DIR$/src/test/java/AndroidTests/GlobalKinetic_Android.java" />
         <option value="$PROJECT_DIR$/src/main/java/APIFunctions/APIFunctions.java" />
         <option value="$PROJECT_DIR$/src/main/java/APIFunctions/JUnitTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Android/AndroidKeywords.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/testng_Android.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -112,18 +159,18 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1920" />
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1012" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="282" />
+    <option name="width" value="1280" />
+    <option name="height" value="1404" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -135,11 +182,6 @@
             <path>
               <item name="poc" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutomationPOC" type="462c0819:PsiDirectoryNode" />
-              <item name="Error_Logs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutomationPOC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -161,31 +203,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Android" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutomationPOC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="APIFunctions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutomationPOC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="BaseClass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutomationPOC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Config" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomUtils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="poc" type="b2602c69:ProjectViewProjectNode" />
@@ -195,18 +213,36 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Web" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationPOC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="WebTests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533770400568" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/poc.ipr" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541424750571" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -223,26 +259,13 @@
   <component name="RunManager" selected="TestNG.GlobalKinetic_Android.testUniversalMediaPlayer">
     <configuration name="C:/Users/Reaper210/Desktop/AutomationPOC/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="poc" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="GlobalKinetic_Android.testUniversalMediaPlayer" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="poc" />
@@ -252,26 +275,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="AndroidTests" />
       <option name="MAIN_CLASS_NAME" value="AndroidTests.GlobalKinetic_Android" />
       <option name="METHOD_NAME" value="testUniversalMediaPlayer" />
-      <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="TestNG.C:/Users/Reaper210/Desktop/AutomationPOC/testng.xml" />
@@ -294,7 +306,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533763178678</updated>
-      <workItem from="1534145535335" duration="286000" />
     </task>
     <servers />
   </component>
@@ -318,106 +329,47 @@
       <configuration name="GlobalKinetic_Android.testUniversalMediaPlayer" configurationId="TestNG" />
     </history-entry>
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="286000" />
-  </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="23" width="1920" height="1012" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36349455" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20660277" />
-      <window_info anchor="right" id="Database" />
-      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.13307087" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Thumbnails" order="7" visible="true" weight="0.32992125" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32992125" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36349455" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.13307087" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Thumbnails" order="8" visible="true" weight="0.32992125" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32992125" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/AndroidTests/GlobalKinetic_Android.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/APIFunctions/APIFunctions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Web/WebKeywords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Android/AndroidKeywords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6225">
-          <caret line="465" selection-start-line="465" selection-end-line="465" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BaseClass/BaseTestWeb.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng_Android.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -428,6 +380,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Error_Logs/testUniversalMediaPlayer_09082018.txt" />
     <entry file="file://$PROJECT_DIR$/src/test/java/WebTests/GlobalKinetic_Web.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -435,46 +388,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6225">
-          <caret line="465" selection-start-line="465" selection-end-line="465" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/APIFunctions/JUnitTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/APIFunctions/APIFunctions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/AndroidTests/GlobalKinetic_Android.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="493">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Web/WebKeywords.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/APIFunctions/APIFunctions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/internal/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="623" column="48" lean-forward="true" selection-start-line="623" selection-start-column="48" selection-end-line="623" selection-end-column="48" />
+        <state relative-caret-position="527">
+          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Android/AndroidKeywords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="374">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7055">
+          <caret line="465" selection-start-line="465" selection-end-line="465" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2764">
+          <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng_Android.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Web/WebKeywords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WebTests/Hetzner_Web.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>

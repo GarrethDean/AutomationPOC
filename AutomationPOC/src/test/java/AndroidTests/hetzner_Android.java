@@ -6,7 +6,7 @@ import org.testng.annotations.*;
 
 import java.io.IOException;
 
-public class GlobalKinetic_Android extends BaseTestAndroid {
+public class hetzner_Android extends BaseTestAndroid {
     private AndroidKeywords myKeyword;
 
     @BeforeClass
