@@ -5,6 +5,7 @@ import Config.Hetzner;
 import org.openqa.selenium.WebDriver;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
+import org.testng.ITestListener;
 
 import java.io.IOException;
 import java.lang.reflect.Method;
@@ -12,6 +13,7 @@ import java.lang.reflect.Method;
 public class BaseTestWeb {
 
     public static WebDriver driver;
+    public WebDriver getDriver;
 
     @BeforeSuite
     public void suiteSetup() throws IOException{
@@ -45,8 +47,7 @@ public class BaseTestWeb {
 
     @AfterClass
     public void ensClass()throws IOException{
-        // Close the browser
-        //End everything
+
         driver.close();
         driver.quit();
     }

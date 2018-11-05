@@ -31,19 +31,19 @@ public class WebKeywords extends BaseTestWeb {
     public WebKeywords(WebDriver driver) throws IOException {
         myPage = new WebPageFunctions(driver, "Hetzner_Web.xlsx", "PageObjectMaster.xlsx");
     }
-    @Step
+    @Step("Navigate to different heading on main page")
     public void NavigateMainMenu(String catagoryName) throws IOException, InterruptedException {
 
         myPage.buttonClick(homePage, catagoryName);
         Thread.sleep(200);
     }
-@Step
+@Step("Scroll Terms and conditions button into view : (0), click on the the terms and conditons button ")
     public void ScrollToAndClickElement(String elementToScrollTo) throws IOException {
         myPage.scrollItemIntoView(homePage, elementToScrollTo);
         myPage.buttonClick(homePage, elementToScrollTo);
         myPage.switchToTab();
     }
-    @Step
+    @Step("Extract date on terms and conditons page if page returns error.")
     public void extractAndStoreData() throws IOException {
 
         try {
@@ -58,12 +58,12 @@ public class WebKeywords extends BaseTestWeb {
 
         myPage.switchToDefaultContent();
     }
-    @Step
+    @Step("Enter text into textbox : (0)")
     public void enterTextIntoMultipleFields(String valueTextbox, String textToType) throws IOException {
         myPage.textBoxType(homePage, valueTextbox, textToType);
 
     }
-    @Step
+    @Step ("Click the submit buttone to send form")
     public void clickSubmit(String valueName) throws IOException {
         myPage.buttonClick(homePage,valueName);
     }

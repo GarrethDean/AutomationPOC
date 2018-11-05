@@ -6,8 +6,8 @@
     <version>0.0.1-SNAPSHOT</version>
     <properties>
         <runSuite>**/FastTestSuite.class</runSuite>
-
     </properties>
+
 
     <repositories>
         <repository>
@@ -24,19 +24,7 @@
                     <artifactId>tools</artifactId>
                     <version>1.6</version>
                     <scope>system</scope>
-                    <systemPath>C:\Program Files\Java\jdk1.8.0_162\lib\tools.jar</systemPath>
-                </dependency>
-            </dependencies>
-        </profile>
-        <profile>
-            <id>Mac_OS</id>
-            <dependencies>
-                <dependency>
-                    <groupId>com.sun</groupId>
-                    <artifactId>tools</artifactId>
-                    <version>1.6</version>
-                    <scope>system</scope>
-                    <systemPath>/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/lib/tools.jar</systemPath>
+                    <systemPath>C:\Program Files\Java\jdk1.8.0_191\lib\tools.jar</systemPath>
                 </dependency>
             </dependencies>
         </profile>
@@ -154,6 +142,7 @@
             <version>1.1</version>
             <scope>compile</scope>
         </dependency>
+
     </dependencies>
     <build>
         <plugins>
@@ -185,4 +174,5 @@
                 </resource>
             </resources>
         </build>
+
     </project>
