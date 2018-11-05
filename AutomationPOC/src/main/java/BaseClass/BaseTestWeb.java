@@ -40,8 +40,7 @@ public class BaseTestWeb {
     public void endSuite()throws IOException{
         // Close the browser
        //End everything
-        driver.close();
-        driver.quit();
+
     }
 
     @AfterClass
