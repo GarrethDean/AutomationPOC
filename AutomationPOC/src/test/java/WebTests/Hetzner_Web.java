@@ -1,12 +1,17 @@
 package WebTests;
 
 import BaseClass.BaseTestWeb;
+import CustomUtils.TestListener;
 import Web.WebKeywords;
 import io.qameta.allure.Description;
 import io.qameta.allure.Step;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import java.io.IOException;
+
+
+@Listeners({TestListener.class})
 
 public class Hetzner_Web extends BaseTestWeb {
 
@@ -16,12 +21,13 @@ public class Hetzner_Web extends BaseTestWeb {
     public void classSetup() throws IOException{
         myKeyword = new WebKeywords(driver);
     }
+
+
     @Test (priority = 1,description = "Navigating to Kinetic",alwaysRun = true)
     @Step("Click on all the main headings")
     @Description("Test Description: Navigate to the Global Kinetic website and navigate through the main headers.")
     public void testWebMainCategories() throws Exception {
-                                                    //TODO 'Using Todo to make the text stand out'
-
+	    //TODO 'Using Todo to make the text stand out'
         //Navigate to all header tabs
         myKeyword.NavigateMainMenu("Team");
         myKeyword.NavigateMainMenu("Services");

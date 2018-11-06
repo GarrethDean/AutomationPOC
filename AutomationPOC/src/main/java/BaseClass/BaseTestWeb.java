@@ -2,7 +2,9 @@ package BaseClass;
 
 import Config.DriverFactory;
 import Config.GlobalVariables;
+import CustomUtils.TestListener;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
 
@@ -13,8 +15,14 @@ import java.lang.reflect.Method;
 
 public class BaseTestWeb {
 
-    public static WebDriver driver;
+    public WebDriver driver;
+    public WebDriverWait wait;
 
+
+
+    public WebDriver getDriver() {
+        return driver;
+    }
     @BeforeSuite
     public void suiteSetup() throws IOException{
 
@@ -29,6 +37,7 @@ public class BaseTestWeb {
     public void getMethodName(Method method) {
         // Get the name of the test being run
         GlobalVariables.currentTestName = method.getName();
+
     }
 
     @AfterMethod

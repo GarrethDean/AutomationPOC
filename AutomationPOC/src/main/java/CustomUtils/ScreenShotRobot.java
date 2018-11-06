@@ -1,4 +1,4 @@
-package utils;
+package CustomUtils;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

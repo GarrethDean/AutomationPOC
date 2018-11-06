@@ -10,6 +10,7 @@ import ExcelFunctions.ExcelFunctions;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import io.appium.java_client.MobileBy;
+import io.qameta.allure.Step;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.openqa.selenium.*;
@@ -114,6 +115,7 @@ public class WebPageFunctions {
 				Assert.fail();
 		}
 	}
+
 	public void buttonClick(String sheetName, String valueName) throws IOException {
 		try {
 			// Click on the button
