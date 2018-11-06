@@ -12,8 +12,6 @@ import java.io.IOException;
 import io.qameta.allure.Step;
 
 
-
-
 public class WebKeywords extends BaseTestWeb {
     private WebPageFunctions myPage;
     private String homePage = "HomePage";
@@ -23,19 +21,18 @@ public class WebKeywords extends BaseTestWeb {
     public WebKeywords(WebDriver driver) throws IOException {
         myPage = new WebPageFunctions(driver, "GlobalKinetic_Web.xlsx", "PageObjectMaster.xlsx");
     }
-@Step
+@Step("Click on the main header : {0}")
     public void NavigateMainMenu(String catagoryName) throws IOException, InterruptedException {
 
         myPage.buttonClick(homePage, catagoryName);
         Thread.sleep(200);
     }
-@Step
+@Step("Scroll to Element {0} and click")
     public void ScrollToAndClickElement(String elementToScrollTo) throws IOException {
         myPage.scrollItemIntoView(homePage, elementToScrollTo);
         myPage.buttonClick(homePage, elementToScrollTo);
         myPage.switchToTab();
     }
-    @Step
     public void extractAndStoreData() throws IOException {
 
         try {
@@ -50,12 +47,10 @@ public class WebKeywords extends BaseTestWeb {
 
         myPage.switchToDefaultContent();
     }
-    @Step
     public void enterTextIntoMultipleFields(String valueTextbox, String textToType) throws IOException {
         myPage.textBoxType(homePage, valueTextbox, textToType);
 
     }
-    @Step
     public void clickSubmit(String valueName) throws IOException {
         myPage.buttonClick(homePage,valueName);
     }

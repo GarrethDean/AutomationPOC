@@ -17,6 +17,7 @@ public class Hetzner_Web extends BaseTestWeb {
         myKeyword = new WebKeywords(driver);
     }
     @Test (priority = 1,description = "Navigating to Kinetic",alwaysRun = true)
+    @Step("Click on all the main headings")
     @Description("Test Description: Navigate to the Global Kinetic website and navigate through the main headers.")
     public void testWebMainCategories() throws Exception {
                                                     //TODO 'Using Todo to make the text stand out'

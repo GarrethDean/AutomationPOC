@@ -2,42 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df022cfd-2ab4-42b2-b2e4-beeb3dae2433" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Error_Logs/placeholder.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Error_Logs/placeholder.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Error_Screenshots/placeholder.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Error_Screenshots/placeholder.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Error_Screenshots/testUniversalMediaPlayer_09082018.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test Plan.jmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/poc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/poc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poc.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/poc.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/poc.iws" beforeDir="false" afterPath="$PROJECT_DIR$/poc.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/APIFunctions/APIFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/APIFunctions/APIFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Android/AndroidKeywords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Android/AndroidKeywords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseClass/BaseTestAndroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BaseClass/BaseTestAndroid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaseClass/BaseTestWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BaseClass/BaseTestWeb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Config/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Config/DriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Config/GlobalVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Config/GlobalVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CustomUtils/ErrorLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CustomUtils/ErrorLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CustomUtils/RetryFailedTestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CustomUtils/RetryFailedTestCases.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CustomUtils/RetryListenerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CustomUtils/RetryListenerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ExcelFunctions/ExcelFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExcelFunctions/ExcelFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ExtentReportListener/ExtentReportListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageFunctions/AndroidPageFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageFunctions/AndroidPageFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageFunctions/WebPageFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageFunctions/WebPageFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Web/WebKeywords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Web/WebKeywords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/email.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/email.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AndroidTests/GlobalKinetic_Android.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/WebTests/GlobalKinetic_Web.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/APIFunctions/APIFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/APIFunctions/APIFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BaseClass/BaseTestWeb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BaseClass/BaseTestWeb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ExtentReportListener/ExtentReportListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ExtentReportListener/ExtentReportListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WebTests/Hetzner_Web.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebTests/Hetzner_Web.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ExtentReportListener/ExtentReportListener.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Web/WebKeywords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Web/WebKeywords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/AndroidTests/GlobalKinetic_Android.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/WebTests/GlobalKinetic_Web.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng_Android.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_Android.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/WebTests/Hetzner_Web.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/WebTests/Hetzner_Web.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,23 +60,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
-          <entry key="xml" value="3" />
+          <entry key="java" value="6" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
-          <entry key="XML" value="3" />
+          <entry key="JAVA" value="6" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="java" value="140" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="JAVA" value="140" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -115,11 +86,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/WebTests/Hetzner_Web.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="593">
+              <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Web/WebKeywords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -149,6 +129,8 @@
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/testng_Android.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/WebTests/Hetzner_Web.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Web/WebKeywords.java" />
       </list>
     </option>
   </component>
@@ -160,9 +142,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="282" />
-    <option name="width" value="1280" />
-    <option name="height" value="1404" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -241,7 +224,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541424750571" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541484056089" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -256,7 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.GlobalKinetic_Android.testUniversalMediaPlayer">
+  <component name="RunManager" selected="TestNG.C:/Users/Reaper210/Desktop/AutomationPOC/testng.xml">
     <configuration name="C:/Users/Reaper210/Desktop/AutomationPOC/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="poc" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -291,8 +274,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.GlobalKinetic_Android.testUniversalMediaPlayer" />
         <item itemvalue="TestNG.C:/Users/Reaper210/Desktop/AutomationPOC/testng.xml" />
+        <item itemvalue="TestNG.GlobalKinetic_Android.testUniversalMediaPlayer" />
       </list>
     </recent_temporary>
   </component>
@@ -328,10 +311,12 @@
     <history-entry file="GlobalKinetic_Android_testUniversalMediaPlayer - 2018.08.09 at 01h 15m 59s.xml">
       <configuration name="GlobalKinetic_Android.testUniversalMediaPlayer" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_Reaper210_Desktop_AutomationPOC_testng_xml - 2018.11.05 at 15h 45m 59s.xml">
+      <configuration name="C:/Users/Reaper210/Desktop/AutomationPOC/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -342,16 +327,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36349455" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36334056" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.13307087" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Thumbnails" order="8" visible="true" weight="0.32992125" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32992125" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -438,17 +423,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Web/WebKeywords.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/WebTests/Hetzner_Web.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        <state relative-caret-position="593">
+          <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/WebTests/Hetzner_Web.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Web/WebKeywords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="60">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="39" />
         </state>
       </provider>
     </entry>
