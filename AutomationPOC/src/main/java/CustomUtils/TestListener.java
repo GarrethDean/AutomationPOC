@@ -3,6 +3,7 @@ package CustomUtils;
 import BaseClass.BaseTestWeb;
 import ExtentReports.ExtentManager;
 import ExtentReports.ExtentTestManager;
+import atu.testrecorder.exceptions.ATUTestRecorderException;
 import com.relevantcodes.extentreports.LogStatus;
 import io.qameta.allure.Attachment;
 import org.openqa.selenium.OutputType;
@@ -14,9 +15,12 @@ import org.testng.ITestResult;
 import java.nio.file.WatchEvent;
 
 
-public class TestListener extends BaseTestWeb implements ITestListener {
+public class TestListener extends BaseTestWeb implements ITestListener   {
 
     public WebDriver getDriver;
+
+    public TestListener() throws ATUTestRecorderException {
+    }
 
     private static String getTestMethodName (ITestResult iTestResult) {
         return  iTestResult.getMethod().getConstructorOrMethod().getName();

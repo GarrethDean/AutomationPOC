@@ -6,8 +6,6 @@ import Web.WebKeywords;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import BaseClass.BaseTestWeb;
-import javax.xml.ws.Action;
 import java.io.IOException;
 import io.qameta.allure.Step;
 
